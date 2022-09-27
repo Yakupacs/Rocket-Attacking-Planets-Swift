@@ -1,6 +1,6 @@
 # Rocket Attacking Planets Swift
 
-I worked with SpriteKit of Swift
+I developed a game where a rocket attacks planets with Swift's SpriteKit library.
 
 # Video
 
